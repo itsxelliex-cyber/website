@@ -11,3 +11,5 @@ this project is made with html, which creates the structure for the website. for
 
 something i struggled with: at first i watched an html tutorial to understand how to build a website, and it was all challenging at first, but i'm getting better!
 
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme) 
+
