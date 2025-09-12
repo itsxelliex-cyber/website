@@ -1,3 +1,4 @@
+# website
 my personal website, kind of like my "mark" on the web!
 WHAT my website is:
 my project is a personal website showcasing all the different parts of me. going through this website you will find out about all the things i like, including hobbies, projects, and interests!
@@ -9,3 +10,4 @@ HOW i made it:
 this project is made with html, which creates the structure for the website. for all the cool designs and fonts, i used css to design that. and for functionality (the most important part) i used javascript to work those parts out.
 
 something i struggled with: at first i watched an html tutorial to understand how to build a website, and it was all challenging at first, but i'm getting better!
+

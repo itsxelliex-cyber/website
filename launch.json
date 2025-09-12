@@ -1,0 +1,6 @@
+ <script>
+        function doSomething() {
+            document.getElementById("test").innerHTML = "Lmao its working!"
+        
+        }
+    </script>
